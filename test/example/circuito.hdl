@@ -1,0 +1,4 @@
+A = AND B C
+B = OR D E
+C = NOT F
+D = NAND G H

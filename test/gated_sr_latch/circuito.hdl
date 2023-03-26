@@ -1,0 +1,4 @@
+A = NAND S E
+B = NAND R E
+P = NOR Q A
+Q = NOR P B

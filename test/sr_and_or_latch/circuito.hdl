@@ -1,0 +1,2 @@
+P = OR Q A
+Q = AND P B

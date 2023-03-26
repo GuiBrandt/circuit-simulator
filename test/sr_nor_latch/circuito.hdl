@@ -1,0 +1,2 @@
+P = NOR Q A
+Q = NOR P B

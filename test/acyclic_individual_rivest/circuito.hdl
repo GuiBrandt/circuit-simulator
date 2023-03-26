@@ -1,0 +1,12 @@
+A = AND X B
+B = OR Y Z
+C = AND Z D
+D = OR X Y
+E = AND Y F
+F = OR X Z
+G = OR Y H
+H = AND X Z
+I = OR X J
+J = AND Y Z
+K = OR Z L
+L = AND X Y

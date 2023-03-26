@@ -1,0 +1,4 @@
+A = NOT E
+B = AND A F
+C = AND E G
+D = OR B C

@@ -1,0 +1,5 @@
+X = XOR A B
+Y = AND C X
+Z = AND A B
+S = XOR C X
+K = OR Y Z

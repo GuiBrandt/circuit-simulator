@@ -1,0 +1,2 @@
+A = AND X B
+B = OR X A

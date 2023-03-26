@@ -1,0 +1,2 @@
+test/*/esperado*.csv text eol=lf
+test/*/saida*.csv text eol=lf

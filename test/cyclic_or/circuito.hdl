@@ -1,0 +1,3 @@
+P = OR Q Y
+Z = OR X P
+Q = AND X Z

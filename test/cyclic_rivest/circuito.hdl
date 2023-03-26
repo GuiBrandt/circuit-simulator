@@ -1,0 +1,6 @@
+A = AND X F
+B = OR Y A
+C = AND Z B
+D = OR X C
+E = AND Y D
+F = OR Z E
